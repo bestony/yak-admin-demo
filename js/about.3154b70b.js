@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["about"],{ef4c:function(t,e,n){"use strict";n.r(e);var a=function(){var t=this,e=t.$createElement,n=t._self._c||e;return n("div",{staticClass:"about"},[n("card",{staticStyle:{height:"100%","min-height":"800px"}},[n("h1",[t._v("青宁信安·魔三宠管理后台")])])],1)},c=[],i={},s=i,l=n("2877"),u=Object(l["a"])(s,a,c,!1,null,null,null);e["default"]=u.exports}}]);
+//# sourceMappingURL=about.3154b70b.js.map

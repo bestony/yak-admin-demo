@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["dashboard"],{"2a57":function(t,a,n){"use strict";n.r(a);var r=function(){var t=this,a=t.$createElement,n=t._self._c||a;return n("div",[n("Row",{attrs:{gutter:16}},[n("Col",{attrs:{span:"12"}},[n("card",[t._v("内容1")])],1),n("Col",{attrs:{span:"12"}},[n("card",[t._v("内容2")])],1)],1)],1)},s=[],e=(n("cadf"),n("551c"),n("f751"),n("097d"),{components:{}}),c=e,o=n("2877"),l=Object(o["a"])(c,r,s,!1,null,null,null);a["default"]=l.exports}}]);
+//# sourceMappingURL=dashboard.bb1733d3.js.map
